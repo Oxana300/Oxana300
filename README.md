@@ -19,6 +19,10 @@
 |               Python            |   в процессе    | до 04.2026г.|
 
 
+### Меня можно найти  💬 
+[<img align="left" width="22px" color="white" alt="javeoff | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](htpps://t.me/javeoff)
+
+
 <!--
 **Oxana300/Oxana300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
